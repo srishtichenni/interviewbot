@@ -1,0 +1,12 @@
+sentence-transformers
+uvicorn
+ctransformers
+fastapi
+langchain
+python-box
+streamlit
+langchain_openai
+langchain_core 
+langchain_community
+python-dotenv
+langserve
