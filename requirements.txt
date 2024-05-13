@@ -3,4 +3,3 @@ fastapi
 streamlit
 python-dotenv
 groq
-dotenv 
